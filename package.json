@@ -1,0 +1,22 @@
+{
+  "name": "pwa-background-sync",
+  "version": "1.0.0",
+  "description": "We are making changes to the Web, hold on",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app",
+    "complete",
+    "tutorial"
+  ],
+  "author": "Nimit Bhargava",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
